@@ -4,7 +4,7 @@ Title: Il mio primo pacchetto
 Version: 0.1.0
 Author: Marta Marrone
 Maintainer: The package maintainer <mm.martamarrone@gmail.com>
-Description: Manipulate and share raster images in R.
+Description: Package for Uni.
 Encoding: UTF-8
 Language: en-GB
 License: GPL(>=2)
